@@ -60,7 +60,7 @@ A contribution-focused snapshot highlighting merged pull requests and review act
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=adanjoserrojas&theme=tokyonight&hide_border=true&cachebust=1" alt="GitHub contribution streak for 4dandev" />
+  <img src="https://streak-stats.demolab.com?user=4dandev&theme=tokyonight&hide_border=true&cachebust=1" alt="GitHub contribution streak for 4dandev" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
