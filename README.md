@@ -41,7 +41,7 @@ I care about readable code, steady iteration, and shipping work that people can 
 ## 🚀 Top Contribution (most commits)
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=adanjoserrojas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews" alt="Top contribution highlights for adanjoserrojas" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=4dandev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews" alt="Top contribution highlights for adanjoserrojas" height="180" />
 </div>
 
 A contribution-focused snapshot highlighting merged pull requests and review activity.
@@ -55,12 +55,12 @@ A contribution-focused snapshot highlighting merged pull requests and review act
 ## 📊 Stats at a Glance
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=adanjoserrojas&show_icons=true&theme=tokyonight&hide_border=true" alt="Overall GitHub stats for adanjoserrojas" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adanjoserrojas&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages used by adanjoserrojas" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=4dandev&show_icons=true&theme=tokyonight&hide_border=true" alt="Overall GitHub stats for 4dandev" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=4dandev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages used by 4dandev" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=adanjoserrojas&theme=tokyonight&hide_border=true&cachebust=1" alt="GitHub contribution streak for adanjoserrojas" />
+  <img src="https://streak-stats.demolab.com?user=adanjoserrojas&theme=tokyonight&hide_border=true&cachebust=1" alt="GitHub contribution streak for 4dandev" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
